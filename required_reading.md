@@ -1,6 +1,8 @@
 # Required Reading
  > Python Elective I Spring 2019
 
+ ExErcise
+agenda 08-03-2019
 * [3. an informal introduction to python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. using python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
 * [3.1.1. numbers](https://docs.python.org/3.7/tutorial/introduction.html#numbers)
@@ -33,6 +35,7 @@
 * [Sorting how to](https://docs.python.org/3/howto/sorting.html#sorting-how-to)
 * [String methods](https://docs.python.org/3.7/library/stdtypes.html#string-methods)
 * [Subprocess — subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)
+* [Test](hello.py)
 * [Text sequence type — str](https://docs.python.org/3.7/library/stdtypes.html#text-sequence-type-str)
 * [Unix commands](/other_materials/unix_commands.md)
 * [Urllib — url handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
